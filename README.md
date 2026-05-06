@@ -1,2 +1,30 @@
-# 94483b02-book-club-reading-tracker-noti
-Simple Notion workspace for book clubs and avid readers tracking reading progress, notes, and discussion preparation. Includes a reading list database with progress tracker, book notes template for quotes, themes, and character maps, book club discussion question generator workspace, annual reading challenge goal tracker, genre and author statistic
+# Book Club Reading Tracker Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa9AT7r1aQA7BC1ZicZb2h)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa9AT7r1aQA7BC1ZicZb2h)
+- [Buy on Whop](https://whop.com/book-club-reading-tracker-notion-template)
+
